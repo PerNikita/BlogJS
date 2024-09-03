@@ -1,1 +1,3 @@
-const model = new Model();
+const app = new Controller();
+
+app.init();
