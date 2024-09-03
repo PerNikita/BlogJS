@@ -15,4 +15,3 @@ class Model {
         return this.posts;
     }
 }
-}
